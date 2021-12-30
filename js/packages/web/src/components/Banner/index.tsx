@@ -54,9 +54,7 @@ export const Banner = (props: {
           </div>
           {props.children}
           <div className="powered-by">
-            <span>
-              POWERED BY <b>METAPLEX</b>
-            </span>
+           
           </div>
         </div>
       </div>
