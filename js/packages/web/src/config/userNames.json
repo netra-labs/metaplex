@@ -1,7 +1,7 @@
 {
-  "Eh8zhTJUEssVNA46DsBs5Ki5yFZ8YHpjzpwCnyuJQ6GM": {
-    "name": "Netra",
-    "image": "https://raw.githubusercontent.com/netra-labs/netra-data/main/assets/netra-avatar.png",
+  "EDshWM3jBy2YUszMiFLAFLx3WkbtqR9An7JZzvg22R1P": {
+    "name": "Deployer Admin",
+    "image": "https://pbs.twimg.com/profile_images/1393399819213983746/2a8l5muc_400x400.png",
     "description": "",
     "background": ""
   },
@@ -26,6 +26,12 @@
   "SoL351y4uKWtbH14AU1Rhiao96aBM4u57bMi5Vj2XJc": {
     "name": "Solana",
     "image": "https://pbs.twimg.com/profile_images/1299400345144049665/sPxnVXa7_400x400.jpg",
+    "description": "Account used by Solana to mint official NFTs.",
+    "background": ""
+  },
+  "Eh8zhTJUEssVNA46DsBs5Ki5yFZ8YHpjzpwCnyuJQ6GM": {
+    "name": "Netra",
+    "image": "https://raw.githubusercontent.com/netra-labs/netra-data/main/assets/netra-avatar.png",
     "description": "Account used by Solana to mint official NFTs.",
     "background": ""
   }
